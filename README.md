@@ -37,7 +37,7 @@ Esta aplicación ofrece acceso a la transmisión en vivo del canal Iqt.Tv, permi
 
 ## Desarrollador
 
-* Terasistemas Perú [https://wa.link/sy7sj8](Whatsapp)
+* Terasistemas Perú [Contacto via WhatsApp](https://wa.link/sy7sj8)
 
 ## Licencia
 
